@@ -1,5 +1,5 @@
 # Supervisor
-Scala program exploring master/slave worker hierarchy
+Scala script exploring master/slave worker hierarchy
 
 Script found in: Supervisor/src/Supervisor.scala
 
